@@ -97,6 +97,7 @@ struct Compare {
     }
 };
 
+
 class matrix{
 	int n;
 	int m;
